@@ -6,7 +6,7 @@ The evaluation metric combines **Weighted Root Mean Squared Error (WRMSE)** and 
 
 Higher scores indicate better model performance.
 
-![Evaluation](images\evaluation.png)
+![Evaluation](images/evaluation.png)
 
 ### Key properties of ESS:
 
@@ -18,20 +18,20 @@ Higher scores indicate better model performance.
 ## Data
 
 ### train.csv
-![train_csv](images\train_csv.png)
+![train_csv](images/train_csv.png)
 
 ### test.csv
-![test_csv](images\test_csv.png)
+![test_csv](images/test_csv.png)
 
 ## My submissions
 
 ### All submissions
-![submissions](images\submissions.png)
+![submissions](images/submissions.png)
 
 ### submission.csv
-![submission_csv](images\submission_csv.png)
+![submission_csv](images/submission_csv.png)
 
 ## Leaderboard
 
-![rank_1](images\rank_1.png)
-![my_score](images\my_score.png)
+![rank_1](images/rank_1.png)
+![my_score](images/my_score.png)
