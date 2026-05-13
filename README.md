@@ -6,9 +6,32 @@ The evaluation metric combines **Weighted Root Mean Squared Error (WRMSE)** and 
 
 Higher scores indicate better model performance.
 
+![Evaluation](images\evaluation.png)
+
 ### Key properties of ESS:
 
 * Bounded between 0 and 1
 * Higher is better
 * Penalizes both large and consistent errors
-* Rewards models that generalize well across difficult samples  
+* Rewards models that generalize well across difficult samples
+
+## Data
+
+### train.csv
+![train_csv](images\train_csv.png)
+
+### test.csv
+![test_csv](images\test_csv.png)
+
+## My submissions
+
+### All submissions
+![submissions](images\submissions.png)
+
+### submission.csv
+![submission_csv](images\submission_csv.png)
+
+## Leaderboard
+
+![rank_1](images\rank_1.png)
+![my_score](images\my_score.png)
